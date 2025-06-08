@@ -217,5 +217,3 @@ If you encounter any issues or have questions:
 ---
 
 **Happy Job Hunting! 🎯**
-
-*Built with ❤️ by naakaarafr*
